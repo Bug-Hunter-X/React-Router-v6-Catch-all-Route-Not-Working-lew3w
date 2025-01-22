@@ -1,0 +1,1 @@
+This repository demonstrates a common issue encountered when using catch-all routes ('/*') in React Router v6. The problem is that the catch-all route does not render when a route is not specifically defined, despite being placed at the end of the route definitions. The solution shows how to correctly place the catch-all route to function as expected.
